@@ -1,6 +1,6 @@
 # Quiz
 
-Ein interaktives Quiz, das Wissen über den Islam auf spielerische Weise abfragt. Das Quiz enthält Multiple-Choice-Fragen, ein 50:50 Joker, einen Timer und eine Highscore-Tabelle, in der die besten Spieler gespeichert werden.
+Ein interaktives Quiz, das Allgemeinwissen auf spielerische Weise abfragt. Das Quiz enthält Multiple-Choice-Fragen, ein 50:50 Joker, einen Timer und eine Highscore-Tabelle, in der die besten Spieler gespeichert werden.
 
 ## Features
 
@@ -48,7 +48,6 @@ Ein interaktives Quiz, das Wissen über den Islam auf spielerische Weise abfragt
 
 ## Weiterentwicklungen und mögliche Verbesserungen
 
-- **Mehr Fragen hinzufügen**: Füge dem Quiz mehr Fragen hinzu, um es abwechslungsreicher zu gestalten.
 - **Schwierigkeitsgrade**: Füge verschiedene Schwierigkeitsgrade hinzu (z.B. Anfänger, Fortgeschrittene).
 - **Soundeffekte**: Füge Soundeffekte für richtige oder falsche Antworten hinzu.
 - **Multiple Joker**: Füge zusätzliche Joker-Optionen hinzu (z.B. „Publikumsjoker“ oder „Fragen überspringen“).
