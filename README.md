@@ -26,7 +26,7 @@ Ein interaktives Quiz, das Allgemeinwissen auf spielerische Weise abfragt. Das Q
    git clone <repository-url>
    ```
 2. Stelle sicher, dass du eine funktionierende Internetverbindung hast, da das Quiz auf externe Bibliotheken zugreift (Bootstrap).
-3. Öffne die `index.html`-Datei in deinem Browser, um das Quiz zu starten.
+3. Öffne die `quiz.html`-Datei in deinem Browser, um das Quiz zu starten.
 
 ## Benutzung
 
